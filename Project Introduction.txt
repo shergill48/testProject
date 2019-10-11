@@ -1,0 +1,5 @@
+My project suggestion is to make an application for tracking the money you should be making on each paycheque.
+this app will track hours you work calculate pay based off your wage, and then subtract the tax amount from your
+region or location. As someone who has personally had to deal with employers not getting paycheques 
+correct i think this can help a lot of people.
+
